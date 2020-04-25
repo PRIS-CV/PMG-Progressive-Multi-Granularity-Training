@@ -11,7 +11,7 @@ torchvision 0.4.2
 
 ### Training
  
-1. Download datatsets for FGVC (e.g. CUB-200-2011, Standford Cars, etc).
+1. Download datatsets for FGVC (e.g. CUB-200-2011, Standford Cars, FGVC-Aircraft, etc).
 2. Train from scratch with ``train.py``.
 
 
