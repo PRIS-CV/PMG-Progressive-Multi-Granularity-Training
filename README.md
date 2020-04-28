@@ -28,3 +28,10 @@ Please cite our paper if you use PMG in your work.
 }
 
 ```
+
+## Contact
+Thanks for your attention!
+If you have any suggestion or question, you can leave a message here or contact us directly:
+- mazhanyu@bupt.edu.cn
+- beiyoudry@bupt.edu.cn
+
