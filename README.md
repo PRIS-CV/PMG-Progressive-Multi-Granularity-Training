@@ -1,7 +1,7 @@
 
 # Progressive Multi-Granularity Training
  
-Code release for Fine-Grained Visual Classiﬁcation via Progressive Multi-Granularity Training of Jigsaw Patches
+Code release for Fine-Grained Visual Classiﬁcation via Progressive Multi-Granularity Training of Jigsaw Patches (ECCV2020)
  
 ### Requirement
  
