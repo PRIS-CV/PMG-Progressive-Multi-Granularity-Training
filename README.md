@@ -6,8 +6,10 @@ Code release for Fine-Grained Visual Classiﬁcation via Progressive Multi-Granu
 ### Requirement
  
 python 3.6
-PyTorch 1.3.1
-torchvision 0.4.2
+
+PyTorch >= 1.3.1
+
+torchvision >= 0.4.2
 
 ### Training
  
@@ -21,7 +23,7 @@ Please cite our paper if you use PMG in your work.
 ```
 @InProceedings{du2020fine,
   title={Fine-Grained Visual Classification via Progressive Multi-Granularity Training of Jigsaw Patches},
-  author={Du, Ruoyi and Chang, Dongliang and Bhunia, Ayan Kumar and Xie, Jiyang and Song, Yi-Zhe and Ma, Zhanyu and Guo, Jun},
+  author={Du, Ruoyi and Chang, Dongliang and Bhunia, Ayan Kumar and Xie, Jiyang and Ma, Zhanyu and Song, Yi-Zhe and Guo, Jun},
   booktitle = {European Conference on Computer Vision},
   year={2020}
 }
