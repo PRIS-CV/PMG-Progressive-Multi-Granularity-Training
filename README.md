@@ -11,6 +11,33 @@ PyTorch >= 1.3.1
 
 torchvision >= 0.4.2
 
+### Datasets Prepare
+
+Download the dataset and organize the structure as follows:
+```
+dataset
+├── train
+│   ├── class_001
+|   |      ├── 1.jpg
+|   |      ├── 2.jpg
+|   |      └── ...
+│   ├── class_002
+|   |      ├── 1.jpg
+|   |      ├── 2.jpg
+|   |      └── ...
+│   └── ...
+└── test
+    ├── class_001
+    |      ├── 1.jpg
+    |      ├── 2.jpg
+    |      └── ...
+    ├── class_002
+    |      ├── 1.jpg
+    |      ├── 2.jpg
+    |      └── ...
+    └── ...
+```
+
 ### Training
  
 1. Download datatsets for FGVC (e.g. CUB-200-2011, Standford Cars, FGVC-Aircraft, etc).
