@@ -11,9 +11,9 @@ PyTorch >= 1.3.1
 
 torchvision >= 0.4.2
 
-### Datasets Prepare
+### Training
 
-Download the dataset and organize the structure as follows:
+1. Download datatsets for FGVC (e.g. CUB-200-2011, Standford Cars, FGVC-Aircraft, etc) and organize the structure as follows:
 ```
 dataset
 ├── train
@@ -38,9 +38,6 @@ dataset
     └── ...
 ```
 
-### Training
- 
-1. Download datatsets for FGVC (e.g. CUB-200-2011, Standford Cars, FGVC-Aircraft, etc).
 2. Train from scratch with ``train.py``.
 
 
